@@ -1,0 +1,33 @@
+li {
+    font-size: 1.5rem;
+    font-weight: 400;
+    width: 20rem;
+}
+
+
+li:hover {
+    color:cornflowerblue;
+    cursor: pointer;
+    border: 0.1rem solid cyan;
+    color: white;
+    background-color: black;
+}   
+
+/* button {
+    border: none;
+    size: 1.5rem;
+    width: 20rem;
+}
+
+button:hover {
+    color:cornflowerblue;
+    cursor: pointer;
+    border: 0.1rem solid cyan;
+    color: white;
+    background-color: black;
+}   */
+
+input[type="checkbox"] {
+    height: 1.3rem;
+    width: 1.3rem;
+}
